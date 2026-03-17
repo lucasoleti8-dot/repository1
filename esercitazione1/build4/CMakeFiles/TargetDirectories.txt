@@ -1,4 +1,0 @@
-/home/pcsdocker/Data/pcs_2026/Esercitazione1/build4/CMakeFiles/esercizio1.dir
-/home/pcsdocker/Data/pcs_2026/Esercitazione1/build4/CMakeFiles/printargs.dir
-/home/pcsdocker/Data/pcs_2026/Esercitazione1/build4/CMakeFiles/edit_cache.dir
-/home/pcsdocker/Data/pcs_2026/Esercitazione1/build4/CMakeFiles/rebuild_cache.dir
